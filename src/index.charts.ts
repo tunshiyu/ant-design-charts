@@ -24,6 +24,7 @@ import Waterfall from './waterfall';
 import WordCloud from './wordCloud';
 import Sunburst from './sunburst';
 import Stock from './stock';
+import Treemap from './treemap';
 import RadialBar from './radialBar';
 import Sankey from './sankey';
 import BidirectionalBar from './bidirectionalBar';
@@ -58,5 +59,6 @@ export {
   Gauge,
   BidirectionalBar,
   Sankey,
+  Treemap,
   G2,
 };
